@@ -1,4 +1,4 @@
-Welcome to Our React Quiz Application
+Welcome to My React Quiz Application
 
 This application is a React-based quiz that asks questions about some fundamental and crucial aspects of React development. It is designed to test your knowledge and provide a score based on your answers. You can attempt the quiz multiple times to achieve the highest score possible. Best of luck!
 
